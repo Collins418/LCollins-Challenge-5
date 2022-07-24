@@ -1,3 +1,8 @@
+Workday Scheduler 
+
+Repo-https://github.com/Collins418/L-Collins-Challenge-5
+Deploy-https://collins418.github.io/L-Collins-Challenge-5
+
 Your Task
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.

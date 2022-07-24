@@ -10,6 +10,8 @@ User Story
 'I WANT to add important events to a daily planner'
 'SO THAT I can manage my time effectively'
 
+Video-https://watch.screencastify.com/v/2PNZMT3TBUZr2MpXnznK
+
 
 Acceptance Criteria
 

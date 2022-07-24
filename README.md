@@ -1,7 +1,6 @@
 Workday Scheduler 
 
-Repo-https://github.com/Collins418/L-Collins-Challenge-5
-Deploy-https://collins418.github.io/L-Collins-Challenge-5/
+
 
 Your Task
 
